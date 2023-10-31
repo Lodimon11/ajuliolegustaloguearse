@@ -1,2 +1,2 @@
 # ajuliolegustaloguearse
-Julio quiere saber el valor del dolar y mientras se loguea.
+Julio quiere saber el valor del dolar mientras se loguea.
